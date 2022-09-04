@@ -1,0 +1,5 @@
+hourInp = input('Enter Hours: ')
+hourVar = int(hourInp)
+rateInp = input('Enter Rate: ')
+rateVar = int(rateInp)
+print('Pay: ', hourVar*rateVar)
